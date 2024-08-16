@@ -1,0 +1,13 @@
+{
+    "MINERIO": {
+        "FERRO": 115,
+        "ARGILA": 60,
+        "BRONZE": 25,
+        "PEPITA DE OURO": 5
+    },
+    "MADEIRA": {
+        "MADEIRA MACIA": 45,
+        "MADEIRA RIGIDA": 115,
+        "BORRACHA": 25
+    }
+}

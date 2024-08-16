@@ -1,0 +1,14 @@
+{
+    "MINERIO": [
+        "FERRO",
+        "BRONZE",
+        "ARGILA",
+        "PEPITA DE OURO",
+        "SAL"
+    ],
+    "MADEIRA": [
+        "MADEIRA MACIA",
+        "MADEIRA RIGIDA",
+        "BORRACHA"
+    ]
+}
